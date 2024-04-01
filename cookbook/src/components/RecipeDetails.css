@@ -1,0 +1,21 @@
+img {
+  width: 300px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.recipe-card {
+  background-color: #f0f0f0; /* Cor de fundo cinza claro */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); /* Sombra suave */
+}
+
+.recipe-card h2 {
+  margin-top: 0;
+}
+
+.recipe-card button {
+  margin-right: 10px;
+}

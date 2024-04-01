@@ -1,0 +1,30 @@
+/* RecipesList.css */
+
+.recipe-list {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .recipe-card {
+    background-color: #f0f0f0; /* Cor de fundo cinza claro */
+    padding: 20px;
+    margin: 10px;
+    width: 250px; /* Definindo a largura dos cards */
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave */
+    text-align: center;
+  }
+  
+  .recipe-card img {
+    width: 100%;
+    border-radius: 8px;
+  }
+  
+  .navigation-menu {
+    margin-top: 20px;
+  }
+  
+  .navigation-menu a {
+    margin-right: 10px;
+  }
+  

@@ -1,0 +1,58 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "name": "Spaghetti Carbonara",
+      "image": "https://images.services.kitchenstories.io/6glN_4JhpVS9aUiBS7JnGsuDULA=/3840x0/filters:quality(80)/images.kitchenstories.io/wagtailOriginalImages/R2568-photo-final-_0.jpg",
+      "ingredients": "200g spaghetti, 100g pancetta, 2 eggs, 50g grated Parmesan cheese, Black pepper",
+      "preparation": "1. Cook spaghetti according to package instructions.\n2. Fry pancetta until crispy.\n3. Beat eggs and Parmesan cheese in a bowl.\n4. Drain spaghetti and mix with egg mixture and pancetta.\n5. Serve with black pepper.",
+      "author": "Chef Giovanni",
+      "published": "2024-03-28T12:00:00Z"
+    },
+    {
+      "id": "2",
+      "name": "Chicken Alfredo",
+      "image": "https://iwashyoudry.com/wp-content/uploads/2022/08/Chicken-Alfredo-Low-Res-21.jpg",
+      "ingredients": "250g fettuccine, 2 chicken breasts, 1 cup heavy cream, 1/2 cup grated Parmesan cheese, 2 cloves garlic, Salt, Black pepper",
+      "preparation": "1. Cook fettuccine according to package instructions.\n2. Season chicken breasts with salt and pepper, then cook until golden brown.\n3. In a separate pan, sauté minced garlic until fragrant.\n4. Add heavy cream and Parmesan cheese, stir until thickened.\n5. Slice chicken and toss with sauce.\n6. Serve over cooked fettuccine.",
+      "author": "Chef Maria",
+      "published": "2024-03-27T10:00:00Z"
+    },
+    {
+      "id": "3",
+      "name": "Caesar Salad",
+      "image": "https://pinchandswirl.com/wp-content/uploads/2022/01/Caesar-Salad-sq.jpg",
+      "ingredients": "1 head romaine lettuce, 1/2 cup Caesar dressing, 1/4 cup grated Parmesan cheese, 1 cup croutons",
+      "preparation": "1. Chop romaine lettuce and place in a large bowl.\n2. Toss lettuce with Caesar dressing until coated.\n3. Sprinkle grated Parmesan cheese over the top.\n4. Add croutons and toss again.\n5. Serve immediately.",
+      "author": "Chef Julia",
+      "published": "2024-03-26T14:00:00Z"
+    },
+    {
+      "id": "4",
+      "name": "Margarita Pizza",
+      "image": "https://www.cookingchanneltv.com/content/dam/images/cook/fullset/2011/1/6/0/CCEV103_Margherita-Pizza_s4x3.jpg",
+      "ingredients": "1 pizza dough, 1/2 cup tomato sauce, 1 cup shredded mozzarella cheese, Fresh basil leaves, Olive oil, Salt",
+      "preparation": "1. Preheat oven to 475°F (245°C).\n2. Roll out pizza dough on a floured surface.\n3. Spread tomato sauce evenly over dough.\n4. Sprinkle mozzarella cheese on top.\n5. Tear basil leaves and scatter over cheese.\n6. Drizzle olive oil and sprinkle salt over pizza.\n7. Bake for 10-12 minutes or until crust is golden brown.",
+      "author": "Chef Antonio",
+      "published": "2024-03-25T16:00:00Z"
+    },
+    {
+      "id": "5",
+      "name": "Chocolate Chip Cookies",
+      "image": "https://images.aws.nestle.recipes/resized/5b069c3ed2feea79377014f6766fcd49_Original_NTH_Chocolate_Chip_Cookie_1080_850.jpg",
+      "ingredients": "1 cup butter, 1 cup white sugar, 1 cup packed brown sugar, 2 eggs, 2 teaspoons vanilla extract, 3 cups all-purpose flour, 1 teaspoon baking soda, 2 teaspoons hot water, 1/2 teaspoon salt, 2 cups semisweet chocolate chips",
+      "preparation": "1. Preheat oven to 350°F (175°C).\n2. Cream together butter, white sugar, and brown sugar until smooth.\n3. Beat in eggs one at a time, then stir in vanilla.\n4. Dissolve baking soda in hot water, then add to batter with salt.\n5. Stir in flour and chocolate chips.\n6. Drop large spoonfuls onto ungreased pans.\n7. Bake for about 10 minutes in the preheated oven, or until edges are nicely browned.",
+      "author": "Baker Emma",
+      "published": "2024-03-24T11:00:00Z"
+    },
+    {
+      "id": "6",
+      "name": "Caprese Salad",
+      "image": "https://natashasfoodadventures.com/wp-content/uploads/2023/02/caprese-salad-with-cherry-tomatoes-thumbnail.jpg",
+      "ingredients": "2 large tomatoes, 1/2 lb fresh mozzarella cheese, 1/4 cup fresh basil leaves, 2 tablespoons balsamic vinegar, 2 tablespoons olive oil, Salt, Black pepper",
+      "preparation": "1. Slice tomatoes and mozzarella cheese into 1/4-inch thick slices.\n2. Arrange tomato, mozzarella, and basil leaves alternately on a serving platter.\n3. Drizzle with balsamic vinegar and olive oil.\n4. Season with salt and black pepper to taste.",
+      "author": "Chef Luca",
+      "published": "2024-03-23T09:00:00Z"
+    }
+  ]
+}
